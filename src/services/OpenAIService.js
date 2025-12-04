@@ -1,7 +1,3 @@
-/**
- * OpenAI API Service Class
- * Handles communication with OpenAI via backend
- */
 import { config } from '../config';
 import { fetchWithRetry } from '../utils/fetchUtils';
 

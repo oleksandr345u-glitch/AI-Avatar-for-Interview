@@ -1,7 +1,3 @@
-/**
- * HeyGen API Service Class
- * Encapsulates all HeyGen API interactions
- */
 import { config } from '../config';
 import { fetchWithRetry } from '../utils/fetchUtils';
 
